@@ -1,16 +1,38 @@
 10.17.2026
 
-Logo is done on paper. I cleaned the background in ChatGPT. Font decision is open. I still need a written reason for the font I pick.
+Logo is done on paper. I cleaned the background in ChatGPT. 
+Font decision is open. I still need a written reason for the font I pick.
 
-Today I fixed the real problem. The UI looks AI made. My audience is creative researchers and artists. They spot this style fast. They trust work that feels human. I need a clean interface with my taste and their needs in balance.
+Today I fixed the real problem. The UI looks AI made. 
+My audience is creative researchers and artists. 
+They spot this style fast. They trust work that feels human. 
+I need a clean interface with my taste and their needs in balance.
 
-I studied pear.no and contralabs.com. I read a LinkedIn post about breaking Claude’s default look. Claude kept returning the same paper tone and serif look. I asked Gemini for color psychology. It gave me muted sage for calm, steel blue for focus, pure white and ink black for order. I built a palette: #F9F9FB, #E2E5E9, #2E3B4E, #6B7F70. I checked Figma’s color library and saved Winter Calm and Eucalyptus Earth. Gemini gave me a spec with solid colors, a live theme switcher, and two font sets: Syne, Space Grotesk, JetBrains Mono for Winter Calm and Satoshi, Plus Jakarta Sans for Eucalyptus Earth.
+I studied pear.no and contralabs.com. 
+I read a LinkedIn post about breaking Claude’s default look. 
+https://www.linkedin.com/pulse/issue-7-how-kill-claude-design-default-aesthetic-3-minutes-jindal-lpelf/
 
-I audited the result with 3 questions. Do the fonts feel distinctive? Does the palette feel like one brand? Do the components look like one product family? The result missed all 3. The fonts felt generic. The palette felt split. The components felt mixed.
+Claude kept returning the same paper tone and serif look. 
+I asked Gemini for color psychology. It gave me muted sage for calm, 
+steel blue for focus, pure white and ink black for order. I built a palette:
+#F9F9FB, #E2E5E9, #2E3B4E, #6B7F70. I checked Figma’s color library and saved Winter Calm 
+and Eucalyptus Earth. Gemini gave me a spec with solid colors, a live theme switcher, 
+and two font sets: Syne, Space Grotesk, JetBrains Mono for Winter Calm and Satoshi, 
+Plus Jakarta Sans for Eucalyptus Earth.
 
-I rewrote the prompt with hard rules. Pure white light mode. Pure black dark mode. #F5F5F7 for card fills. #0071E3 for actions. #1D1D1F for main text. #86868B for labels. SF Pro, SF Mono, and New York. Strong scale jumps from large titles to small captions. The output still came out chaotic. Too many ideas. Flat hierarchy.
+I audited the result with 3 questions. Do the fonts feel distinctive? 
+Does the palette feel like one brand? Do the components look like one product family? 
+The result missed all 3. The fonts felt generic. The palette felt split.
+The components felt mixed.
 
-I am scrapping this build. I asked Muse for a full ideation report. I will start from that report. I need a clear plan first.
+I rewrote the prompt with hard rules. Pure white light mode. 
+Pure black dark mode. #F5F5F7 for card fills. #0071E3 for actions. 
+#1D1D1F for main text. #86868B for labels. SF Pro, SF Mono, and New York. 
+Strong scale jumps from large titles to small captions. The output still came out chaotic. 
+Too many ideas. Flat hierarchy.
+
+I am scrapping this build. I asked Muse for a full ideation report.
+I will start from that report. I need a clear plan first.
 
 KPI for tomorrow:
 
@@ -22,7 +44,8 @@ Components built from one token system.
 
 New build audited with the 3 questions before I show it.
 
-Lesson: My taste is one input. The user is the main input. Plain blue needs a user reason. Calm, focus, and trust give me that reason.
+Lesson: My taste is one input. The user is the main input. 
+Plain blue needs a user reason. Calm, focus, and trust give me that reason.
 
 Blocker: Font decision. Tomorrow I write the reason first. Then I pick the font.
 
